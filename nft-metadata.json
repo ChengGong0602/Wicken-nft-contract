@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "Wickens NFT: the first assest",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmP4wjxvR3tb8EcGKm43A6xFR5hshjxDdc3qrgBCQLcMgZ",
+    "name" : "Wicken Character1"
+}
